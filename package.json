@@ -1,0 +1,23 @@
+{
+    "name": "readme-creator",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/davidgreenhouse/readme-creator.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/davidgreenhouse/readme-creator/issues"
+    },
+    "homepage": "https://github.com/davidgreenhouse/readme-creator#readme",
+    "dependencies": {
+      "inquirer": "^8.2.4"
+    }
+  }
